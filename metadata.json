@@ -1,0 +1,6 @@
+{
+  "name": "SomaHub - Kenyan University Student Resource Portal",
+  "description": "A centralized academic and career hub for Kenyan university students featuring verified past papers, scholarships, internships, free learning pathways, GPA calculator, and campus tech events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
